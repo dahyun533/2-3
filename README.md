@@ -18,5 +18,6 @@
 ## 파일 이름 규칙
 
 - 폴더 안은 `html/`(페이지), `md/`(기획서·기록), `대화 캡처/`(AI와 나눈 주요 대화)로 나눔.
+- 대화 캡처는 `AI이름_대화캡처번호.png`로 저장. 예: `claude_대화캡처1.png`, `chatgpt_대화캡처1.png`.
 - 괄호 안은 내가 구분하려고 붙인 버전. 예: `기획서(v2).md` = 두 번째 기획서.
 - 전체 미션 모음: [dh-codyssey](https://github.com/dahyun533/dh-codyssey)
